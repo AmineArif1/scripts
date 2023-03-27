@@ -1,3 +1,3 @@
 #! /usr/bin/env bash
 
-printf "hello, %s\n {$1}" 
+printf "$1 rass taro \n" 
